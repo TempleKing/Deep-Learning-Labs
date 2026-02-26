@@ -1,0 +1,5 @@
+otter-grader
+numpy
+matplotlib
+torch
+torchvision

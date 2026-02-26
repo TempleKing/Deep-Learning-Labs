@@ -1,0 +1,4 @@
+otter-grader
+numpy
+matplotlib
+jupyter
